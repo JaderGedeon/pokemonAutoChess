@@ -1592,7 +1592,7 @@
     "PSYCHIC_TERRAIN": "Aumente o dano causado em 20% (somente psíquico)",
     "ELECTRIC_TERRAIN": "Aumente o dano causado em 20% (somente elétrico)",
     "MISTY_TERRAIN": "Aumente o dano causado em 20% (somente Fada)",
-    "SANDSTORM": "5 SPECIAL por segundo (TERRA são imunes)\nDuração da CONFUSION +30%",
+    "SANDSTORM": "5 SPECIAL por segundo (TERRESTRES são imunes)\nDuração da CONFUSION +30%",
     "SNOW": "-25% de velocidade de movimento\n+30% de duração de FREEZE",
     "SUN": "+30% de dano de BURN\n-30% de duração de FREEZE",
     "RAIN": "+3 PP por segundo\n-30% de dano de BURN e POISONNED",
@@ -1950,7 +1950,7 @@
     "PSYCHIC": "Psíquico",
     "DARK": "Escuro",
     "STEEL": "Aço",
-    "GROUND": "Chão",
+    "GROUND": "Terrestre",
     "POISON": "Tóxico",
     "DRAGON": "Dragão",
     "FIELD": "Campo",
@@ -2138,7 +2138,7 @@
     "STORM": "Tempestade",
     "MISTY": "enevoado",
     "SNOW": "Neve",
-    "SANDSTORM": "tempestade de areia"
+    "SANDSTORM": "Tempestade de areia"
   },
   "weather_description": {
     "NEUTRAL": "Tempo normal. Sem efeitos.",
@@ -2149,7 +2149,7 @@
     "STORM": "Um raio atinge aleatoriamente o tabuleiro, causando 100 SPECIAL (ELECTRIC são imunes)\n+30% de duração da PARALYSIS",
     "MISTY": "+20% SPECIAL\n+30% de duração do CHARM",
     "SNOW": "-25% de velocidade de movimento\n+30% de duração de FREEZE",
-    "SANDSTORM": "5 SPECIAL por segundo (TERRA são imunes)\n Duração da CONFUSION +30%"
+    "SANDSTORM": "5 SPECIAL por segundo (TERRESTRE são imunes)\n Duração da CONFUSION +30%"
   },
   "emotion": {
     "Normal": "Normal",
